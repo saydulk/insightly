@@ -1,6 +1,6 @@
 source :rubygems
 gem 'i18n' , "~> 0.5.0"
-gem 'json',"=1.6.5"
+gem 'json', '= 2.3.0'
 gemspec
 gem 'rspec'
 gem 'rake'
